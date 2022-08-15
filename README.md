@@ -36,4 +36,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="chrome" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="chrome" width="40" height="40"/>
+
+  <p align="center"><img src="https://github.com/Tunarwn/Tunarwn/blob/main/snake.svg"></p>
 </p>
