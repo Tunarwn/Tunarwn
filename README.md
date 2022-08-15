@@ -6,6 +6,23 @@
 Tunarwn/Tunarwn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+**🚧 Working in Progress**
+
+```TypeScript
+(async () => {
+  console.info("Born2Code");
+
+  while (Tunarwn.knowlege.length < Infinity) {
+    Promise.all([
+      Tunarwn.study(42),
+      Tunarwn.peerLearning(42),
+      Tunarwn.exploringNewTopic(),
+    ]);
+  }
+})();
+```
+
 <img src="https://github.com/Tunarwn/Tunarwn/blob/main/giphy.gif" width="auto">
 
 <p align="center">
