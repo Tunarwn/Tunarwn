@@ -25,7 +25,8 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://github.com/Tunarwn/Tunarwn/blob/main/giphy.gif" width="auto">
 
-<p align="center">
+<p align="center"><img src="https://github.com/Tunarwn/Tunarwn/blob/main/snake.svg"></p>
+
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tunarwn&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tunarwn&theme=tokyonight"/>
   <a href="https://profile.intra.42.fr/users/tturna"><img width="48%" src="https://badge42.vercel.app/api/v2/cl1lkdqj3000609l1klzziqu1/stats?cursusId=21&coalitionId=undefined" alt="tturna's 42 stats"/></a>
   <a href="https://profile.intra.42.fr/users/tturna"><img width="48%" src="https://badge42.vercel.app/api/v2/cl1lkdqj3000609l1klzziqu1/stats?cursusId=9&coalitionId=undefined" alt="tturna's 42 stats" /></a>
