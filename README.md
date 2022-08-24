@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000080,100:CCCCFF&height=200&text=Hi%20there,%20I%27m%20Tunahan%20%<p><span>&#9757;&#127996;</span> Medium Light skin tone</p>%9F%91%8B&fontSize=24&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000080,100:CCCCFF&height=200&text=Hi%20there,%20I%27m%20Tunahan%20%F0%9F%91%8B&fontSize=24&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%" />
 
 
 🌱 I am a student developer studying in **42Kocaeli**.
